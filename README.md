@@ -4,13 +4,9 @@ Capstone-project
 
 User Registration http://127.0.0.1:8000/auth/users/
 
-User Auth Token
+User Auth Token http://127.0.0.1:8000/api/user-auth-token
 
-http://127.0.0.1:8000/api/user-auth-token
-
-Menu
-
-http://127.0.0.1:8000/api/menu-items/
+Menu http://127.0.0.1:8000/api/menu-items/
 
 Menu Update http://127.0.0.1:8000/api/menu-items/2
 
